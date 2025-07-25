@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
   "filename": "ModPackTemplate.dll",
   "author": "A bunch of people",
-  "name": "Mod Jam 5 - A Side",
+  "name": "Mod Jam 5 (A-Side)",
   "uniqueName": "xen42.ModJam5Part1",
   "version": "1.0.0",
   "owmlVersion": "2.15.1",

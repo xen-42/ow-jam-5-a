@@ -20,4 +20,4 @@ A modpack containing the following Jam 5 entries:
 
 [Scale of the Universe](https://outerwildsmods.com/mods/scaleoftheuniverse/) by Trifid.
 
-Install the B-side at the same time if your computer can handle it!
+Install the B-side at the same time - if your computer can handle it!

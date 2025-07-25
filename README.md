@@ -16,7 +16,7 @@ A modpack containing the following Jam 5 entries:
 
 [Under A Radio Moon](https://outerwildsmods.com/mods/underaradiomoon/) by Etherpod, ditzy, harperlr, and Ernest.
 
-[Cosmic Curators](https://outerwildsmods.com/mods/thecosmiccurators/) by The Signal Jammers (Echatsum, Anonymous, and pikpik).
+[Cosmic Curators](https://outerwildsmods.com/mods/thecosmiccurators/) by The Signal Jammers (Echatsum, Anonymous, pikpik, Repcon, and c0a Rex).
 
 [Scale of the Universe](https://outerwildsmods.com/mods/scaleoftheuniverse/) by Trifid.
 
